@@ -1,6 +1,13 @@
 # flutter chat app
 
-A new Flutter project.
+this is a chat application built using flutter and firebase database 
+
+# screenshots 
+
+![Screenshot_20241013-201336](https://github.com/user-attachments/assets/d41664d0-6c2c-404f-bb10-82e2772951e8)
+![Screenshot_20241013-201437](https://github.com/user-attachments/assets/35543ad0-c85f-4647-9a95-2b5b8fe35c52)
+![Screenshot_20241013-201453](https://github.com/user-attachments/assets/fc166b4b-a5e9-4ff2-b209-909638b2bb9e)
+![Screenshot_20241013-201536](https://github.com/user-attachments/assets/b65ea43b-ce68-4a91-a355-0474f7b76366)
 
 ## Getting Started
 
